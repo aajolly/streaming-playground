@@ -1,0 +1,1 @@
+from .models import Ride, ride_deserializer, ride_from_row, ride_serializer
